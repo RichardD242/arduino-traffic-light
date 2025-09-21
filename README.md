@@ -14,8 +14,8 @@ So sieht der Schaltplan aus:
 
 ![Schaltplan](arduinotrafficlightCAD.png)
 
-![EchtesBild](WhatsApp Image 2025-09-21 at 14.30.42.jpeg)
+![EchtesBild](arduinoechtbildtrafficliught.jpeg)
 ---
 
 ## Der Code
-Der komplette Code liegt in der Datei `sketch.ino`
+Der komplette Code liegt in der Datei `sketch1.ino`
