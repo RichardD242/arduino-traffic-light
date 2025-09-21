@@ -37,8 +37,10 @@ Der komplette Code liegt in der Datei `sketch1.ino`
 So sieht der Schaltplan aus:  
 
 ![Schaltplan](arduinobutton.png)
-
-![EchtesBild](arduinoreal.jpeg)
+#OFF
+![EchtesBild](buttonarduinoOFF.jpeg)
+#ON
+![EchtesBild](buttonarduinoON.jpeg)
 ---
 
 ## Der Code
