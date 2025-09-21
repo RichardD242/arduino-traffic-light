@@ -1,5 +1,6 @@
-# arduino-traffic-light
+# arduino-traffic-light + button
 
+## Traffic Light
 - 1x Arduino Uno  
 - 1x Breadboard  
 - 3x LEDs (Rot, Gelb, Grün)  
@@ -19,3 +20,26 @@ So sieht der Schaltplan aus:
 
 ## Der Code
 Der komplette Code liegt in der Datei `sketch1.ino`
+
+---
+
+## Button
+- 1x Arduino Uno  
+- 1x Breadboard  
+- 1x LEDs (Grün)  
+- 1x Widerstände (ich hab ein kilo ohm benutzt weil es keine anderen gab)  
+- Jumper-Kabel  
+- USB-Kabel für den Arduino  
+
+---
+
+## Aufbau
+So sieht der Schaltplan aus:  
+
+![Schaltplan](arduinobutton.png)
+
+![EchtesBild](arduinoreal.jpeg)
+---
+
+## Der Code
+Der komplette Code liegt in der Datei `sketch2.ino`
